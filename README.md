@@ -24,7 +24,7 @@ To use the road accident dashboard, follow these steps:
 
 ## Data Source
 
-The data used in this dashboard is sourced from [provide the data source information here]. It contains information about accident dates, severity, casualties, vehicles involved, road conditions, and more.
+The data used in this dashboard is sourced from kaggle. It contains information about accident dates, severity, casualties, vehicles involved, road conditions, and more.
 
 ## Contributing
 
